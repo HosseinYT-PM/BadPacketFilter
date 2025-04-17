@@ -1,7 +1,7 @@
 # BadPacketFilter
 
 <p align="center">
-  <img src="assets/badpacketfilter-banner.png" alt="BadPacketFilter Banner" width="600">
+  <img src="assets/logo.png" alt="BadPacketFilter Logo" width="600">
 </p>
 
 **A Security Plugin That Prevents Bad Packets From Entering For PocketMine 5**
