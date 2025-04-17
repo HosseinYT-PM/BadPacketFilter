@@ -1,0 +1,7 @@
+name: BadPacketFilter
+version: 1.0.0
+api: 5.0.0
+author: HosseinYT
+description: A Security Plugin That Prevents Bad Packets From Entering For PocketMine 5
+main: HosseinYT\BadPacketFilter\Main
+website: "https://github.com/HosseinYT-PM/"
